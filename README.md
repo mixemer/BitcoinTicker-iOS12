@@ -2,7 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Bitcoin Ticker
-
+1                              |  2
 :-----------------------------:|:------------------------------:
 ![](BitcoinTicker-image1.png)  |  ![](BitcoinTicker-image2.png)
 
